@@ -1,6 +1,6 @@
 # PC Engines APU2 Custom firmware with AMD Microcode
 This is repository for my APU2 firmware builds that include [AMD microcode](https://github.com/platomav/CPUMicrocodes)  
-Build are made using official [build process](https://github.com/pcengines/apu2-documentation/blob/master/docs/microcode_patching.md).  AMD microcode cannot be included in official build as AMD licence prohibits its usage.  
+Build are made using official [build process](https://github.com/pcengines/apu2-documentation/blob/master/docs/microcode_patching.md).  AMD microcode cannot be included in official build as AMD licence prohibits its distribution.  
 New microcode contains Spectre mitigations - Indirect Branch Prediction Barrier (IBPB)  
   
 **Use on your own risk.**  
