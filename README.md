@@ -20,5 +20,8 @@ you can remove **boardmismatch=force** if you are already running new firmware b
 8) Reboot: Remember that after flashing boot order is reset so you have to change it during reboot (F10)
 9) On OpenBSD if all OK, remove ```/etc/rc.securelevel``` and reboot  
 
-
 If you need build for your APU please make a request via [Issues](https://github.com/kolargol/apu2_firmware/issues)
+
+### Dirs
+- **firmware/**: master releases
+- **firmware_special/**: special builds usually with some extra patches and features
