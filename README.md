@@ -12,13 +12,14 @@ For my custom builds read more on: https://blog.onefellow.com/
 1) Install https://www.flashrom.org/
 2) If you are running OpenBSD: ```echo "sysctl kern.securelevel=-1" > /etc/rc.securelevel```,reboot
 3) Become root
-4) Download binary from *firmware/* and coresponding .asc file
-5) Import my public GPG key from https://onefellow.com/
-6) Verify if binary is correct (```gpg2 --verify xxxx.sig```)
-7) FLASH: ```flashrom -w apu2_vX.X.X-FX.rom  --programmer internal:boardmismatch=force```  
+4) Download binary from *firmware/* and coresponding .sig file
+5) Import my public GPG key from [my site](https://onefellow.com/zbyszek-gpg.txt)
+6) Verify if archive have valid signature (```gpg2 --verify xxxx.sig```)
+7) Unpack (```tar -zxvf apu2*.tar.gz```)
+8) FLASH: ```flashrom -w apu2_vX.X.X-FX.rom  --programmer internal:boardmismatch=force```  
 you can remove **boardmismatch=force** if you are already running new firmware branch
-8) Reboot: Remember that after flashing boot order is reset so you have to change it during reboot (F10)
-9) On OpenBSD if all OK, remove ```/etc/rc.securelevel``` and reboot  
+9) Reboot: Remember that after flashing boot order is reset so you have to change it during reboot (F10)
+10) On OpenBSD if all OK, remove ```/etc/rc.securelevel``` and reboot  
 
 If you need build for your APU please make a request via [Issues](https://github.com/kolargol/apu2_firmware/issues)
 
