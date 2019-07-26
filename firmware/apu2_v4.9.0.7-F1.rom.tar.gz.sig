@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: Zbyszek Zolkiewski
+
+iQGzBAABCgAdFiEE6O9NPfBIit/9DyBmZFUqLFqtIK8FAl069VYACgkQZFUqLFqt
+IK9czwwAj2BWWmYzu2vJnEFTsO8fnqy6geZyujTsMOJtS+mJ0ROPqYIHwnxh5n0r
+jGpz6S/HSCHFtNp8GVaoitnPhlrtd2t/aeapSaSNX99l3xL/kcIreEDulPKpk/n9
+ycAYAtXiZapnES2xNU0/Me8Uemthh4fAdEn/smEEs8Rigr6QP/oFIra03++7BFPW
+m34j0YHVUdrAe86z7YKp2fAepFlWFgQw+gbKnkSpES5+5zru6wK8UTdb8sEPvJXH
+givfy9hUIA47ocIDr0ybpyPJzUlhpVC9Crgwvgvulj4NnqmdPFIvItGL/6u1wSza
+A56M2BBLAGvlb86gmbMe8DlPgQY+y4RaEzn1Tf6K3wUoB683oyLl3/nFc6FHMGWm
+XgNFU2Q2eMC+vVUCkGLXjat6d5r438kWObzIYTigsPvmF/96hVUf1VoMp+X3SzrQ
+pEQxCl9GmCybZrEs1CdbM16vvhLIR2ajTMPk2FkqWyonwmMw8jHEi6F4eLnbUMCR
+61xZllbb
+=Aw7d
+-----END PGP SIGNATURE-----
